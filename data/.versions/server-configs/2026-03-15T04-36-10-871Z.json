@@ -1,0 +1,23 @@
+[
+  {
+    "id": "cb7a012a-b5bf-49c2-a9e1-e53187f2e793",
+    "name": "windows",
+    "host": "192.168.31.48",
+    "port": 22,
+    "username": "txt",
+    "password": "0000",
+    "privateKey": "",
+    "passphrase": "",
+    "workDir": "D:\\builds",
+    "os": "windows",
+    "group": "",
+    "envVars": "",
+    "preDeployScript": "",
+    "postDeployScript": "",
+    "healthCheckUrl": "",
+    "healthCheckTimeout": 30,
+    "description": "",
+    "createdAt": "2026-03-14T09:20:12.000Z",
+    "updatedAt": "2026-03-15T04:36:10.856Z"
+  }
+]

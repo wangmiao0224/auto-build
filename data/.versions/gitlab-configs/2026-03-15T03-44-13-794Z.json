@@ -1,0 +1,17 @@
+[
+  {
+    "id": "default-gitlab",
+    "name": "GitLab",
+    "url": "http://192.168.30.171:10003",
+    "token": "zjy-hs_6RctBLyhte8r7",
+    "webhookSecret": "",
+    "apiTimeout": 30,
+    "apiRetryCount": 3,
+    "defaultBranch": "main",
+    "proxyUrl": "",
+    "cacheTime": 300,
+    "isDefault": true,
+    "createdAt": "2026-03-15T00:00:00.000Z",
+    "updatedAt": "2026-03-15T03:44:13.787Z"
+  }
+]

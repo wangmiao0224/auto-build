@@ -1,0 +1,31 @@
+{
+  "dingtalk": {
+    "enabled": false,
+    "webhook": "",
+    "secret": "",
+    "onSuccess": true,
+    "onFailure": true
+  },
+  "wecom": {
+    "enabled": true,
+    "webhook": "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=a61426ce-2286-4c07-9a87-e0671105cc96",
+    "onSuccess": true,
+    "onFailure": true,
+    "atUserIds": "王靖尧"
+  },
+  "webhook": {
+    "enabled": false,
+    "url": "",
+    "method": "POST",
+    "auth": ""
+  },
+  "quietHours": {
+    "enabled": true,
+    "start": "00:00",
+    "end": "08:00"
+  },
+  "rateLimit": {
+    "enabled": false,
+    "intervalMinutes": 5
+  }
+}

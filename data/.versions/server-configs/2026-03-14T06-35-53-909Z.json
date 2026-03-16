@@ -1,0 +1,15 @@
+[
+  {
+    "id": "ad4b2048-d13f-463d-bcb0-e7072ce2993e",
+    "name": "windows",
+    "host": "192.168.31.48",
+    "port": 22,
+    "username": "txt",
+    "password": "0a845b469ab10e1d0cb4c097:769b3f9bbeba87ffc3cd1e467896e563:3452f15ccc94",
+    "workDir": "D:/builds",
+    "artifactRootPath": "D:/builds",
+    "description": "无",
+    "createdAt": "2026-03-14T06:35:53.907Z",
+    "updatedAt": "2026-03-14T06:35:53.907Z"
+  }
+]

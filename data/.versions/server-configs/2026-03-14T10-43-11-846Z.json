@@ -1,0 +1,16 @@
+[
+  {
+    "id": "cb7a012a-b5bf-49c2-a9e1-e53187f2e793",
+    "name": "windows",
+    "host": "192.168.31.48",
+    "port": 22,
+    "username": "txt",
+    "password": "0000",
+    "workDir": "D:\\builds",
+    "artifactRootPath": "D:\\builds",
+    "os": "windows",
+    "description": "",
+    "createdAt": "2026-03-14T09:20:12.000Z",
+    "updatedAt": "2026-03-14T10:43:11.844Z"
+  }
+]

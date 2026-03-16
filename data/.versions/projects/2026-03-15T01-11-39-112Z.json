@@ -1,0 +1,19 @@
+[
+  {
+    "projectId": 177,
+    "projectName": "天应泰",
+    "selectedBranch": "release/62",
+    "selectedTriggerId": 2,
+    "serverId": "cb7a012a-b5bf-49c2-a9e1-e53187f2e793",
+    "updatedAt": "2026-03-15T01:00:09.508Z"
+  },
+  {
+    "id": "0c30ffb6-a175-4ad4-9ece-15d37d5a4116",
+    "projectId": 177,
+    "projectName": "抢先/源泰",
+    "selectedBranch": "release/192",
+    "selectedTriggerId": 2,
+    "serverId": "cb7a012a-b5bf-49c2-a9e1-e53187f2e793",
+    "updatedAt": "2026-03-15T01:11:39.110Z"
+  }
+]

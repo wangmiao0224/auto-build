@@ -1,0 +1,29 @@
+[
+  {
+    "id": "0bc88c84-9710-424a-a32a-b3fd56442774",
+    "projectId": 177,
+    "projectName": "抢先(源泰)",
+    "selectedBranch": "release/192",
+    "selectedTriggerId": 2,
+    "serverId": "cb7a012a-b5bf-49c2-a9e1-e53187f2e793",
+    "updatedAt": "2026-03-15T01:30:16.505Z"
+  },
+  {
+    "id": "23fb2706-6706-4290-b3cd-78717d10660d",
+    "projectId": 177,
+    "projectName": "天应泰",
+    "selectedBranch": "release/62",
+    "selectedTriggerId": 2,
+    "serverId": "cb7a012a-b5bf-49c2-a9e1-e53187f2e793",
+    "updatedAt": "2026-03-15T01:30:44.978Z"
+  },
+  {
+    "id": "ccfd7088-83da-4e6a-9565-cd365e7c422a",
+    "projectId": 177,
+    "projectName": "测试环境",
+    "selectedBranch": "develop",
+    "selectedTriggerId": 2,
+    "serverId": "cb7a012a-b5bf-49c2-a9e1-e53187f2e793",
+    "updatedAt": "2026-03-15T01:37:11.094Z"
+  }
+]

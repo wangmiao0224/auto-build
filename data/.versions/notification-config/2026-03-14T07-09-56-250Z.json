@@ -1,0 +1,21 @@
+{
+  "dingtalk": {
+    "enabled": false,
+    "webhook": "",
+    "secret": "",
+    "onSuccess": true,
+    "onFailure": true
+  },
+  "wecom": {
+    "enabled": true,
+    "webhook": "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=a61426ce-2286-4c07-9a87-e0671105cc96",
+    "onSuccess": true,
+    "onFailure": true
+  },
+  "webhook": {
+    "enabled": false,
+    "url": "",
+    "method": "POST",
+    "auth": ""
+  }
+}

@@ -1,0 +1,510 @@
+[
+  {
+    "id": "1547b043-92e1-47d8-923e-cd0e13500f8e",
+    "configId": "d2ad412e-80b8-4e0a-9ecb-205311254371",
+    "projectId": 177,
+    "projectName": "打包测试",
+    "branch": "release/testBuild",
+    "pipelineId": 1908,
+    "status": "success",
+    "tagName": "release_testBuild_1773543663291",
+    "tarTarget": "",
+    "tarPath": "",
+    "buildCommand": "",
+    "serverId": "cb7a012a-b5bf-49c2-a9e1-e53187f2e793",
+    "startedAt": "2026-03-15T03:01:03.510Z",
+    "finishedAt": "2026-03-15 03:06:38 UTC",
+    "duration": 332,
+    "triggeredBy": "manual",
+    "webUrl": "http://192.168.30.171:10003/frontEndProject/jz-ruoyi/pipelines/1908",
+    "stages": [
+      {
+        "name": "build",
+        "status": "success",
+        "jobs": [
+          {
+            "id": 3919,
+            "name": "build",
+            "stage": "build",
+            "status": "success",
+            "startedAt": "2026-03-15T03:01:04.858Z",
+            "finishedAt": "2026-03-15T03:06:01.946Z",
+            "duration": 297.087982,
+            "webUrl": "http://192.168.30.171:10003/frontEndProject/jz-ruoyi/-/jobs/3919"
+          }
+        ]
+      },
+      {
+        "name": "deploy",
+        "status": "running",
+        "jobs": [
+          {
+            "id": 3920,
+            "name": "deploy1",
+            "stage": "deploy",
+            "status": "running",
+            "startedAt": "2026-03-15T03:06:02.787Z",
+            "finishedAt": null,
+            "duration": 34.809734077,
+            "webUrl": "http://192.168.30.171:10003/frontEndProject/jz-ruoyi/-/jobs/3920"
+          }
+        ]
+      }
+    ],
+    "currentStage": "deploy"
+  },
+  {
+    "id": "19e737b6-4224-43e2-a164-00f086522ebd",
+    "configId": "d2ad412e-80b8-4e0a-9ecb-205311254371",
+    "projectId": 177,
+    "projectName": "打包测试",
+    "branch": "release/testBuild",
+    "pipelineId": 1907,
+    "status": "success",
+    "tagName": "release_testBuild_1773543303319",
+    "tarTarget": "",
+    "tarPath": "",
+    "buildCommand": "",
+    "serverId": "cb7a012a-b5bf-49c2-a9e1-e53187f2e793",
+    "startedAt": "2026-03-15T02:55:03.566Z",
+    "finishedAt": "2026-03-15T02:58:48.478Z",
+    "duration": 224,
+    "triggeredBy": "manual",
+    "webUrl": "http://192.168.30.171:10003/frontEndProject/jz-ruoyi/pipelines/1907",
+    "stages": [
+      {
+        "name": "build",
+        "status": "success",
+        "jobs": [
+          {
+            "id": 3917,
+            "name": "build",
+            "stage": "build",
+            "status": "success",
+            "startedAt": "2026-03-15T02:55:03.835Z",
+            "finishedAt": "2026-03-15T02:58:13.124Z",
+            "duration": 189.289052,
+            "webUrl": "http://192.168.30.171:10003/frontEndProject/jz-ruoyi/-/jobs/3917"
+          }
+        ]
+      },
+      {
+        "name": "deploy",
+        "status": "success",
+        "jobs": [
+          {
+            "id": 3918,
+            "name": "deploy1",
+            "stage": "deploy",
+            "status": "success",
+            "startedAt": "2026-03-15T02:58:13.431Z",
+            "finishedAt": "2026-03-15T02:58:48.283Z",
+            "duration": 34.851878,
+            "webUrl": "http://192.168.30.171:10003/frontEndProject/jz-ruoyi/-/jobs/3918"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "dbe14c8f-5884-4432-b175-2fe4707ed6d7",
+    "configId": "d2ad412e-80b8-4e0a-9ecb-205311254371",
+    "projectId": 177,
+    "projectName": "打包测试",
+    "branch": "release/testBuild",
+    "pipelineId": 1906,
+    "status": "success",
+    "tagName": "release_testBuild_1773542338710",
+    "tarTarget": "",
+    "tarPath": "",
+    "buildCommand": "",
+    "serverId": "cb7a012a-b5bf-49c2-a9e1-e53187f2e793",
+    "startedAt": "2026-03-15T02:38:59.021Z",
+    "finishedAt": "2026-03-15T02:43:30.337Z",
+    "duration": 268,
+    "triggeredBy": "manual",
+    "webUrl": "http://192.168.30.171:10003/frontEndProject/jz-ruoyi/pipelines/1906",
+    "stages": [
+      {
+        "name": "build",
+        "status": "success",
+        "jobs": [
+          {
+            "id": 3915,
+            "name": "build",
+            "stage": "build",
+            "status": "success",
+            "startedAt": "2026-03-15T02:39:01.255Z",
+            "finishedAt": "2026-03-15T02:42:55.674Z",
+            "duration": 234.418924,
+            "webUrl": "http://192.168.30.171:10003/frontEndProject/jz-ruoyi/-/jobs/3915"
+          }
+        ]
+      },
+      {
+        "name": "deploy",
+        "status": "success",
+        "jobs": [
+          {
+            "id": 3916,
+            "name": "deploy1",
+            "stage": "deploy",
+            "status": "success",
+            "startedAt": "2026-03-15T02:42:55.951Z",
+            "finishedAt": "2026-03-15T02:43:30.179Z",
+            "duration": 34.22824,
+            "webUrl": "http://192.168.30.171:10003/frontEndProject/jz-ruoyi/-/jobs/3916"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "638dc70c-a729-4e1a-bda3-a0226c091b54",
+    "configId": "d2ad412e-80b8-4e0a-9ecb-205311254371",
+    "projectId": 177,
+    "projectName": "打包测试",
+    "branch": "release/testBuild",
+    "pipelineId": 1905,
+    "status": "success",
+    "tagName": "release_testBuild_1773540991272",
+    "tarTarget": "",
+    "tarPath": "",
+    "buildCommand": "",
+    "serverId": "cb7a012a-b5bf-49c2-a9e1-e53187f2e793",
+    "startedAt": "2026-03-15T02:16:31.585Z",
+    "finishedAt": "2026-03-15T02:23:28.016Z",
+    "duration": 412,
+    "triggeredBy": "manual",
+    "webUrl": "http://192.168.30.171:10003/frontEndProject/jz-ruoyi/pipelines/1905",
+    "stages": [
+      {
+        "name": "build",
+        "status": "success",
+        "jobs": [
+          {
+            "id": 3913,
+            "name": "build",
+            "stage": "build",
+            "status": "success",
+            "startedAt": "2026-03-15T02:16:33.734Z",
+            "finishedAt": "2026-03-15T02:22:42.260Z",
+            "duration": 368.526458,
+            "webUrl": "http://192.168.30.171:10003/frontEndProject/jz-ruoyi/-/jobs/3913"
+          }
+        ]
+      },
+      {
+        "name": "deploy",
+        "status": "success",
+        "jobs": [
+          {
+            "id": 3914,
+            "name": "deploy1",
+            "stage": "deploy",
+            "status": "success",
+            "startedAt": "2026-03-15T02:22:43.894Z",
+            "finishedAt": "2026-03-15T02:23:27.938Z",
+            "duration": 44.044158,
+            "webUrl": "http://192.168.30.171:10003/frontEndProject/jz-ruoyi/-/jobs/3914"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "92d9f9f8-9bcd-4018-9f30-3290533d0e64",
+    "configId": "d2ad412e-80b8-4e0a-9ecb-205311254371",
+    "projectId": 177,
+    "projectName": "打包测试",
+    "branch": "release/testBuild",
+    "pipelineId": 1904,
+    "status": "success",
+    "tagName": "release_testBuild_1773538826398",
+    "tarTarget": "192.168.31.48",
+    "tarPath": "D:\\builds\\177\\release\\testBuild",
+    "buildCommand": "npm run build",
+    "serverId": "cb7a012a-b5bf-49c2-a9e1-e53187f2e793",
+    "startedAt": "2026-03-15T01:40:26.659Z",
+    "finishedAt": "2026-03-15T01:45:04.729Z",
+    "duration": 273,
+    "triggeredBy": "manual",
+    "webUrl": "http://192.168.30.171:10003/frontEndProject/jz-ruoyi/pipelines/1904",
+    "stages": [
+      {
+        "name": "build",
+        "status": "success",
+        "jobs": [
+          {
+            "id": 3911,
+            "name": "build",
+            "stage": "build",
+            "status": "success",
+            "startedAt": "2026-03-15T01:40:27.319Z",
+            "finishedAt": "2026-03-15T01:44:24.872Z",
+            "duration": 237.553037,
+            "webUrl": "http://192.168.30.171:10003/frontEndProject/jz-ruoyi/-/jobs/3911"
+          }
+        ]
+      },
+      {
+        "name": "deploy",
+        "status": "success",
+        "jobs": [
+          {
+            "id": 3912,
+            "name": "deploy1",
+            "stage": "deploy",
+            "status": "success",
+            "startedAt": "2026-03-15T01:44:28.038Z",
+            "finishedAt": "2026-03-15T01:45:04.461Z",
+            "duration": 36.423014,
+            "webUrl": "http://192.168.30.171:10003/frontEndProject/jz-ruoyi/-/jobs/3912"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "e17da784-4072-4198-a492-93479df5ce2f",
+    "configId": "0bc88c84-9710-424a-a32a-b3fd56442774",
+    "projectId": 177,
+    "projectName": "抢先(源泰)",
+    "branch": "release/192",
+    "pipelineId": 1903,
+    "status": "success",
+    "tagName": "release_192_1773538247016",
+    "tarTarget": "192.168.31.48",
+    "tarPath": "D:\\builds\\177\\release\\192",
+    "buildCommand": "npm run build",
+    "serverId": "cb7a012a-b5bf-49c2-a9e1-e53187f2e793",
+    "startedAt": "2026-03-15T01:30:47.309Z",
+    "finishedAt": "2026-03-15T01:38:17.842Z",
+    "duration": 445,
+    "triggeredBy": "manual",
+    "webUrl": "http://192.168.30.171:10003/frontEndProject/jz-ruoyi/pipelines/1903",
+    "stages": [
+      {
+        "name": "build",
+        "status": "success",
+        "jobs": [
+          {
+            "id": 3909,
+            "name": "build",
+            "stage": "build",
+            "status": "success",
+            "startedAt": "2026-03-15T01:30:49.657Z",
+            "finishedAt": "2026-03-15T01:37:33.484Z",
+            "duration": 403.827021,
+            "webUrl": "http://192.168.30.171:10003/frontEndProject/jz-ruoyi/-/jobs/3909"
+          }
+        ]
+      },
+      {
+        "name": "deploy",
+        "status": "success",
+        "jobs": [
+          {
+            "id": 3910,
+            "name": "deploy1",
+            "stage": "deploy",
+            "status": "success",
+            "startedAt": "2026-03-15T01:37:35.792Z",
+            "finishedAt": "2026-03-15T01:38:17.670Z",
+            "duration": 41.878497,
+            "webUrl": "http://192.168.30.171:10003/frontEndProject/jz-ruoyi/-/jobs/3910"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "fb12fb47-2f45-46cc-924f-9b433e7d164c",
+    "projectId": 177,
+    "projectName": "抢先版(源泰)",
+    "branch": "release/192",
+    "pipelineId": 1902,
+    "status": "canceled",
+    "tagName": "release_192_1773537814496",
+    "tarTarget": "192.168.31.48",
+    "tarPath": "D:\\builds\\177\\release\\192",
+    "buildCommand": "npm run build",
+    "serverId": "cb7a012a-b5bf-49c2-a9e1-e53187f2e793",
+    "startedAt": "2026-03-15T01:23:34.885Z",
+    "finishedAt": "2026-03-15T01:23:37.585Z",
+    "duration": 1,
+    "triggeredBy": "manual",
+    "webUrl": "http://192.168.30.171:10003/frontEndProject/jz-ruoyi/pipelines/1902",
+    "stages": [
+      {
+        "name": "build",
+        "status": "canceled",
+        "jobs": [
+          {
+            "id": 3907,
+            "name": "build",
+            "stage": "build",
+            "status": "canceled",
+            "startedAt": "2026-03-15T01:23:36.339Z",
+            "finishedAt": "2026-03-15T01:23:37.467Z",
+            "duration": 1.128011,
+            "webUrl": "http://192.168.30.171:10003/frontEndProject/jz-ruoyi/-/jobs/3907"
+          }
+        ]
+      },
+      {
+        "name": "deploy",
+        "status": "canceled",
+        "jobs": [
+          {
+            "id": 3908,
+            "name": "deploy1",
+            "stage": "deploy",
+            "status": "canceled",
+            "startedAt": null,
+            "finishedAt": "2026-03-15T01:23:37.475Z",
+            "duration": null,
+            "webUrl": "http://192.168.30.171:10003/frontEndProject/jz-ruoyi/-/jobs/3908"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "f566b115-5a3b-4bc0-8f06-1f4c8e899ef4",
+    "projectId": 177,
+    "projectName": "天应泰",
+    "branch": "release/62",
+    "pipelineId": 1901,
+    "status": "canceled",
+    "tagName": "release_62_1773537428361",
+    "tarTarget": "192.168.31.48",
+    "tarPath": "D:\\builds\\177\\release\\62",
+    "buildCommand": "npm run build",
+    "serverId": "cb7a012a-b5bf-49c2-a9e1-e53187f2e793",
+    "startedAt": "2026-03-15T01:17:08.811Z",
+    "finishedAt": "2026-03-15T01:21:40.121Z",
+    "duration": 268,
+    "triggeredBy": "manual",
+    "webUrl": "http://192.168.30.171:10003/frontEndProject/jz-ruoyi/pipelines/1901",
+    "stages": [
+      {
+        "name": "build",
+        "status": "canceled",
+        "jobs": [
+          {
+            "id": 3905,
+            "name": "build",
+            "stage": "build",
+            "status": "canceled",
+            "startedAt": "2026-03-15T01:17:11.169Z",
+            "finishedAt": "2026-03-15T01:21:39.929Z",
+            "duration": 268.75922,
+            "webUrl": "http://192.168.30.171:10003/frontEndProject/jz-ruoyi/-/jobs/3905"
+          }
+        ]
+      },
+      {
+        "name": "deploy",
+        "status": "canceled",
+        "jobs": [
+          {
+            "id": 3906,
+            "name": "deploy1",
+            "stage": "deploy",
+            "status": "canceled",
+            "startedAt": null,
+            "finishedAt": "2026-03-15T01:21:39.939Z",
+            "duration": null,
+            "webUrl": "http://192.168.30.171:10003/frontEndProject/jz-ruoyi/-/jobs/3906"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "c53f0044-57c3-49bf-8e55-9052c110b03e",
+    "projectId": 177,
+    "projectName": "抢先版(源泰)",
+    "branch": "release/192",
+    "pipelineId": 1900,
+    "status": "success",
+    "tagName": "release_192_1773480185697",
+    "tarTarget": "192.168.31.48",
+    "tarPath": "D:\\builds\\177\\release\\192",
+    "buildCommand": "npm run build",
+    "startedAt": "2026-03-14T09:23:06.041Z",
+    "finishedAt": "2026-03-14T09:29:26.002Z",
+    "duration": 377,
+    "triggeredBy": "manual",
+    "webUrl": "http://192.168.30.171:10003/frontEndProject/jz-ruoyi/pipelines/1900"
+  },
+  {
+    "id": "c5422539-2842-4202-aec1-0c50ed2f20c3",
+    "projectId": 177,
+    "projectName": "抢先版(源泰)",
+    "branch": "release/192",
+    "pipelineId": 1899,
+    "status": "canceled",
+    "tagName": "release_192_1773479944118",
+    "tarTarget": "192.168.31.48",
+    "tarPath": "D:\\builds\\177\\release\\192",
+    "buildCommand": "npm run build",
+    "startedAt": "2026-03-14T09:19:04.436Z",
+    "finishedAt": "2026-03-14T09:19:26.612Z",
+    "duration": 20,
+    "triggeredBy": "manual",
+    "webUrl": "http://192.168.30.171:10003/frontEndProject/jz-ruoyi/pipelines/1899"
+  },
+  {
+    "id": "b06797be-07cc-4099-ae24-9527e587c242",
+    "projectId": 177,
+    "projectName": "抢先版(源泰)",
+    "branch": "release/192",
+    "pipelineId": 1898,
+    "status": "canceled",
+    "tagName": "release_192_1773479447390",
+    "tarTarget": "192.168.31.48",
+    "tarPath": "D:\\builds\\177\\release\\192",
+    "buildCommand": "npm run build",
+    "startedAt": "2026-03-14T09:10:47.746Z",
+    "finishedAt": "2026-03-14T09:11:21.580Z",
+    "duration": 1,
+    "triggeredBy": "manual",
+    "webUrl": "http://192.168.30.171:10003/frontEndProject/jz-ruoyi/pipelines/1898"
+  },
+  {
+    "id": "aef1542a-82b5-44e3-9f97-bb7e3e4402fc",
+    "projectId": 177,
+    "projectName": "抢先版(源泰)",
+    "branch": "release/192",
+    "pipelineId": 1897,
+    "status": "canceled",
+    "tagName": "-------",
+    "tarTarget": "",
+    "tarPath": "D:\\builds",
+    "buildCommand": "npm run build",
+    "startedAt": "2026-03-14T08:52:18.022Z",
+    "finishedAt": "2026-03-14T08:53:01.046Z",
+    "duration": 41,
+    "triggeredBy": "manual",
+    "webUrl": "http://192.168.30.171:10003/frontEndProject/jz-ruoyi/pipelines/1897"
+  },
+  {
+    "id": "72487c72-5c39-41a8-a33e-8030fdb7f024",
+    "projectId": 177,
+    "projectName": "抢先版(源泰)",
+    "branch": "release/192",
+    "pipelineId": 1896,
+    "status": "success",
+    "tagName": "-------",
+    "tarTarget": "",
+    "tarPath": "D:\\builds",
+    "buildCommand": "npm run build",
+    "startedAt": "2026-03-14T08:26:18.479Z",
+    "finishedAt": "2026-03-14T08:41:45.905Z",
+    "duration": 922,
+    "triggeredBy": "manual",
+    "webUrl": "http://192.168.30.171:10003/frontEndProject/jz-ruoyi/pipelines/1896"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "fileNamePattern": "{projectName}_{branch}_{tagName}",
+  "tagNamePattern": "{tagName}",
+  "createGitTag": true,
+  "buildTimeout": 60,
+  "historyRetentionDays": 30,
+  "notifyOnStart": false,
+  "notifyOnSuccess": true,
+  "notifyOnFailure": true,
+  "notifyOnCancel": false,
+  "sendArtifactToWecom": true,
+  "artifactOversizedAction": "link",
+  "artifactSendRetryCount": 3
+}
